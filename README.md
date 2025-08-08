@@ -7,3 +7,10 @@ Me especializo en el desarrollo, mantenimiento de páginas web y gestión de bas
 +   C++: Para programación de bajo nivel y desarrollo de algoritmos eficientes.
 +   SQL: Para diseño y consulta de bases de datos relacionales.
 También tengo conocimientos en herramientas como GitHub y he trabajado con bases de datos como MySQL, MySQL Server y PostgreSQL.
+**Aplicaciones que he desarrollado**
+He participado en el desarrollo de:
++   Aplicaciones web con login, panel de usuario y conexión a base de datos.
++   Proyectos personales enfocados en la práctica de algoritmos y estructuras de datos.
++   Sistemas internos para el manejo de negocios como: Farmacias, hoteles, supermercados, etc.
+**Experiencia previa**
+Mi experiencia incluye proyectos personales y proyectos en los laboratorios de SENATI, realizados tanto en grupo como individualmente, en los cuales siempre he destacado.
